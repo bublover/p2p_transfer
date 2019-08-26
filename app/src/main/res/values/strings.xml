@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">P2P Transfer</string>
+    <string name="go_addr">GO address:\t</string>
+    <string name="role">role:\t</string>
+    <string name="dev_name">My device name:\t</string>
+    <string name="net_name">Network name:\t</string>
+    <string name="go_create">Create</string>
+    <string name="go_remove">Remove</string>
+    <string name="go">\tGroup owner</string>
+    <string name="gc">\tGroup client</string>
+    <string name="peers">TCP peers:</string>
+    <string name="browse">browse</string>
+</resources>
